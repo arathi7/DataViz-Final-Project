@@ -15,4 +15,3 @@ dependencies:
   - bqplot
   - seaborn
   - panel
-  - squarify-0.4.3
