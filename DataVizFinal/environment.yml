@@ -3,14 +3,16 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - psutil
+  - toolz
   - matplotlib
+  - dill
   - pandas
-  - datetime
-  - ipywidgets
-  - seaborn
-  - os
-  - gc
+  - partd
+  - bokeh
+  - dask
+  - plotly
   - bqplot
-  - bqplot.pyplot
-  - ipywidgets
-  - matplotlib.pyplot
+  - seaborn
+  - panel
+  - squarify-0.4.3
